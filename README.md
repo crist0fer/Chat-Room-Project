@@ -1,2 +1,4 @@
-# Chat-Room-Project
-Using Flask to build a Functioning chat Application 
+# Flask Chat App
+
+This is a chat application written in Flask. This purpose of this project is to
+take data from a URL and store the information in.
